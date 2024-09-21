@@ -69,7 +69,7 @@
     "root-dirs": "^0.0.3",
     "sequelize": "^6.35.1",
     "snyk": "^1.41.1",
-    "socket.io-client": "^2.0.2",
+    "socket.io-client": "^4.8.0",
     "winston": "^2.2.0"
   },
   "devDependencies": {
